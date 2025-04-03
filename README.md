@@ -21,5 +21,6 @@ La estructura del repositorio:
 ``src/notebooks``: Notebooks usados para pruebas.
 ``src/results_notebook``: directorio donde se encuentra el notebook final
 ``src/models``: Directorio con los modelos guardados al ejecutar el código del proyecto.
+``src/presentacion``: Directorio con documento de apoyo en la presentacion
 ``src/utils``: Directorio de herramientas utilizadas
 
